@@ -11,3 +11,6 @@ This is a sleek and functional To-Do List application developed using **JavaScri
 - Lightweight and fast, designed with clean and maintainable code.  
 
 Feel free to explore, use, and enhance this project! Contributions and feedback are highly appreciated.  
+
+<img width="437" alt="image" src="https://github.com/user-attachments/assets/6feac604-7234-4214-9443-ed220136cec5" />
+
